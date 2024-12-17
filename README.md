@@ -4,7 +4,7 @@ A repo to store videos, documents, or files of large projects that I have been d
 ## Planned Projects on Here. They will all be posted before Jan 6.
 - Homelab (Purpose, pictures, tech stack, etc)
 - LTW (Trailer Video, some gameplay demo, process, etc)
-- ATHR Project (Advancing Towards Human Recreation, papers + whatnot))
+- ATHR Project, AKA Neural Engine (Advancing Towards Human Recreation, paper + demo)
 
 ## FAQ
 ### What is this place for?
