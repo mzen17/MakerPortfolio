@@ -1,5 +1,5 @@
 # MakerPortfolio
-A repo to store videos, documents, or files of large projects that I have been doing throughout high school.
+A repo to store videos or documents of large projects that I have been doing throughout high school.
 
 ## Planned Projects on Here. They will all be posted before Jan 6.
 - Homelab (Purpose, pictures, tech stack, etc)
