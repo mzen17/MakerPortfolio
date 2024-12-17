@@ -16,4 +16,4 @@ A repo to store videos, documents, or files of large projects that I have been d
 > Google drive is a pain to use for websites (it has strict rate limits). If I place videos here, I can have a URL point to them without problems.
 
 ### Why not youtube?
-This videos are likely unedited.
+> This videos are likely unedited, and not everything is a video.
